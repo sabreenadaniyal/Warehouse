@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Figma UI/UX Design",
     desc: "Interactive UI/UX prototypes created in Figma with modern design and responsive layouts.",
-    image: "/portfolio/figma design.png",
+    image: "/portfolio/Figma design.png",
   },
   {
     title: "Dynamic Resume Builder",
